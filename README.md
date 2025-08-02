@@ -4,6 +4,7 @@ Welcome to the official source code repository for the **Model Context Protocol 
 
 🎬 **Watch the full tutorial:**
 👉 [Model Context Protocol Tutorial on YouTube](https://youtu.be/XC49e0pliEE)
+[![Watch the video](https://img.youtube.com/vi/XC49e0pliEE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XC49e0pliEE)
 
 ---
 
